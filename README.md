@@ -28,6 +28,8 @@ npm run cypress:open   # Open Cypress UI
 ## Project Structure
 
 ```
+
+
 mern-testing/
 ├── client/                 # React front-end
 │   ├── src/                # React source code
@@ -48,6 +50,9 @@ mern-testing/
 │       └── integration/    # Integration tests
 ├── jest.config.js          # Jest configuration
 └── package.json            # Project dependencies
+
+
+
 ```
 ## Test Coverage
 
