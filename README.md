@@ -23,11 +23,11 @@ cd client
 npm test        # Run unit tests
 npm run test:coverage  # Run tests with coverage
 npm run cypress:open   # Open Cypress UI
-
-
-## Project Structure
-
 ```
+
+##  Project Structure
+
+
 
 
 mern-testing/
